@@ -1,5 +1,5 @@
 function convertir() {
-    const tauxDeChange = 6000;
+    const tauxDeChange = 4753,125;
     const euroInput = document.getElementById('euroInput').value;
     const montantEuros = parseFloat(euroInput);
 
